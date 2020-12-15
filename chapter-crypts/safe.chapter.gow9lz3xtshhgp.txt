@@ -1,0 +1,17 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Safe Book Id := clouds
+Time Created := Tue Dec 15 19:33:00 2020
+Safe Version := safedb-v0.12.111
+Safe Website := https://www.safedb.net
+RubyGems.org := https://rubygems.org/gems/safedb
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
++E1mTqLqf59s00AgVbmAfJZgZJnUEg37CehoSIgWrUiL9aV9RSK4lF9rXuFW
+YWgHvblVE23z5InaK4GvN6wLspIU+jeRd1SroMzdsvHo9QszqKeMB5AceVu5
+PMZMy40bj14fUnM4ZzCc7VFMfDcucfxhIOQOMopl4kTUpAKetovm3qXx3QlO
+OTbTl8bC16r7
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
